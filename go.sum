@@ -1,0 +1,6 @@
+github.com/sermojohn/go-monorepo/mod1 v0.0.0-20220223142127-e4f2cd8b53c0 h1:Gzz1V9nQKVyEhu3UTZhVjiJrQPjP14T+4Au1tUKHK50=
+github.com/sermojohn/go-monorepo/mod1 v0.0.0-20220223142127-e4f2cd8b53c0/go.mod h1:oshik8mWu/6fLfzEYTOTL/ZEuSHGWpAGpxHS8umYPYE=
+github.com/sermojohn/go-monorepo/mod1 v0.0.2 h1:6cvl8s/IUcEbiT7X4hH2QZbDCzToLcmvBQLZz7Ysg0c=
+github.com/sermojohn/go-monorepo/mod1 v0.0.2/go.mod h1:oshik8mWu/6fLfzEYTOTL/ZEuSHGWpAGpxHS8umYPYE=
+github.com/sermojohn/go-monorepo/mod2 v0.0.1 h1:+o2o68JO7WQWBO76qQHnvLDuCpzHXj1kxviyJFtCTtk=
+github.com/sermojohn/go-monorepo/mod2 v0.0.1/go.mod h1:CfZKl7718s5BuN/3KigHL8Q2oTlJ/SU67qz1JOUv0b0=
